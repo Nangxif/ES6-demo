@@ -1,6 +1,6 @@
-# esdemo
+# es6demo
 
-> A Vue.js project
+> 这是一个ES6+webpack小demo
 
 ## Build Setup
 
